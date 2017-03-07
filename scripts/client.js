@@ -5,6 +5,10 @@ phirePhiterApp.controller('PhirePhiterController', function(){
 
   var self = this; // holds the value of this
 
+  // angular.module('PhirePhiterApp', [])
+  //   .controller('PhirePhiterController', function(self.people){
+
+
   self.people = [
     {
       "firstName": "Luke",
